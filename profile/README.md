@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[./assets/banner.svg](https://raw.githubusercontent.com/origenow/.github/main/profile/assets/banner.svg)" alt="Origenow, agência de e-commerce para marketplaces" width="100%">
+  <img src="./assets/banner.svg" alt="Origenow, agência de e-commerce para marketplaces" width="100%">
 </p>
 
 <p align="center">
