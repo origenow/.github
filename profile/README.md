@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[./assets/banner.svg](https://github.com/origenow/.github/raw/main/profile/assets/banner.svg)" alt="Origenow, agência de e-commerce para marketplaces" width="100%">
+  <img src="https://github.com/origenow/.github/raw/main/profile/assets/banner.svg" alt="Origenow, agência de e-commerce para marketplaces" width="100%">
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Cuidamos da operação de e-commerce de ponta a ponta, do cadastro de produtos a
 ## Onde atuamos
 
 <p align="center">
-  <img src="[assets/marketplaces.svg](https://github.com/origenow/.github/raw/main/profile/assets/marketplaces.svg)" alt="Marcas, distribuidores e sellers atendidos pela Origenow, que opera catálogo, precificação, mídia, atendimento e logística no Mercado Livre, Amazon, Shopee, TikTok Shop e Magalu" width="100%">
+  <img src="https://github.com/origenow/.github/raw/main/profile/assets/marketplaces.svg" alt="Marcas, distribuidores e sellers atendidos pela Origenow, que opera catálogo, precificação, mídia, atendimento e logística no Mercado Livre, Amazon, Shopee, TikTok Shop e Magalu" width="100%">
 </p>
 
 <details>
@@ -49,7 +49,7 @@ Cuidamos da operação de e-commerce de ponta a ponta, do cadastro de produtos a
 ## Como trabalhamos
 
 <p align="center">
-  <img src="[assets/como-trabalhamos.svg](https://github.com/origenow/.github/raw/main/profile/assets/como-trabalhamos.svg)" alt="Cinco etapas: diagnóstico, cadastro, precificação, mídia e análise" width="100%">
+  <img src="https://github.com/origenow/.github/raw/main/profile/assets/como-trabalhamos.svg" alt="Cinco etapas: diagnóstico, cadastro, precificação, mídia e análise" width="100%">
 </p>
 
 ## Tecnologia
@@ -57,7 +57,7 @@ Cuidamos da operação de e-commerce de ponta a ponta, do cadastro de produtos a
 Construímos as nossas próprias ferramentas para ganhar escala na operação.
 
 <p align="center">
-  <img src="[assets/tecnologia.svg](https://github.com/origenow/.github/raw/main/profile/assets/tecnologia.svg)" alt="Integrações com Tiny, Agendor, ClickUp, Slack e WhatsApp. Serviços em Python, FastAPI e servidor MCP próprio. Infraestrutura em Railway e Supabase" width="100%">
+  <img src="https://github.com/origenow/.github/raw/main/profile/assets/tecnologia.svg" alt="Integrações com Tiny, Agendor, ClickUp, Slack e WhatsApp. Serviços em Python, FastAPI e servidor MCP próprio. Infraestrutura em Railway e Supabase" width="100%">
 </p>
 
 ## Fale com a gente
